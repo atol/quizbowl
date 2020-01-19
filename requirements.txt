@@ -1,0 +1,12 @@
+pandas
+numpy
+pickle-mixin
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+tqdm>=4.19.5
+matplotlib>=2.0.2
+seaborn>=0.8.1
+tensorflow
+keras
+click
