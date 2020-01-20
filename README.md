@@ -1,14 +1,14 @@
-# QANTA
+# Quizbowl
 
-Question answering task based on the QANTA (Question Answering is Not a Trivial Activity) dataset.
+Question answering task based on the QANTA (Question Answering Is Not a Trivial Activity) dataset.
 
 ## Background
 
 Quizbowl is a trivia competition that tests knowledge and intelligence. A Quizbowl question contains multiple sentences
 with clues arranged by difficulty: obscure clues appear at the beginning and obvious clues appear at the end.
 
-Players (human or machine) try to answer the question correctly using the least amount of information -- questions can 
-be interrupted as soon as a player knows the answer.
+Players try to answer the question correctly using the least amount of information -- questions can be interrupted as soon
+as a player knows the answer.
 
 ## Getting Started
 
